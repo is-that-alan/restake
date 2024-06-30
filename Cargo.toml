@@ -1,0 +1,8 @@
+[package]
+name = "rust_lang"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitvec='1.0'
+pyo3="0.21.1"
